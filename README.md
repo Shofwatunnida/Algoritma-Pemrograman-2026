@@ -1,14 +1,22 @@
-\# Algoritma Pemrograman 2026
+Algoritma Pemrograman 2026
 
 
 
-\## Pertemuan 01
+Identitas
 
-Tugas Pertemuan 01 - Bilangan Bulat
+Nama: Shofwatunnida
+
+NIM: 2225250074
 
 
 
-File tugas:
+Pertemuan 01
 
-\- bilbul.py
+Folder Pertemuan-01 berisi seluruh berkas tugas Pertemuan 01, yaitu:
+
+\- bilbul.py — program Python untuk menyelesaikan tugas bilangan bulat.
+
+\- Dokumen Laporan.docx — dokumen laporan tugas Pertemuan 01.
+
+\- Gambar Flowchart.png — gambar flowchart dari algoritma program.
 
