@@ -1,0 +1,7 @@
+nama = input("Nama: ")
+tugas = float(input("Nilai Tugas: "))
+uts = float(input("Nilai UTS: "))
+uas = float(input("Nilai UAS: "))
+nilai_akhir = (0.20 * tugas) + (0.30 * uts) + (0.50 * uas)
+print(f"Nama : {nama}")
+print(f"Nilai Akhir : {nilai_akhir:.2f}")
